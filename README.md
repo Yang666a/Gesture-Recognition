@@ -1,1 +1,1 @@
-# gesture_recognition
+## Gesture Recognition Project for AI
